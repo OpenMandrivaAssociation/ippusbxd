@@ -4,7 +4,7 @@
 Summary:	Userland driver for IPP-over-USB printers
 Name:		ippusbxd
 Version:	1.30
-Release:	3
+Release:	4
 Source0:	https://github.com/tillkamppeter/ippusbxd/archive/%{version}/%{name}-%{version}.tar.gz
 License:	GPL
 BuildRequires:	pkgconfig(libusb-1.0)
